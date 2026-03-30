@@ -27,7 +27,7 @@ The project simulates a real-world business scenario where data is transformed i
 ## 🛠 Tools & Technologies
 
 * **Python** (Pandas, NumPy, Seaborn, Matplotlib)
-* **SQL** (PostgreSQL / MySQL / SQL Server)
+* **SQL** (MySQL)
 * **Power BI** (Dashboard & Visualization)
 * **Gamma** (Presentation creation)
 * **Jupyter Notebook / Anaconda**
@@ -136,7 +136,7 @@ pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
 
 ### 4. Connect to SQL
 
-* Create database in PostgreSQL/MySQL/SQL Server
+* Create database in MySQL Server
 * Upload cleaned dataset using Python (`to_sql()`)
 
 ### 5. Open Power BI
